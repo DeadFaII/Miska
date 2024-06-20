@@ -1,4 +1,4 @@
-# Miska-Python-Module-
+# Miska (Python Module)
 Module for converting texture maps.
 
 ### README.md
