@@ -1,8 +1,6 @@
 # Miska (Python Module)
 Module for converting texture maps.
 
-### README.md
-
 # Texture Map Conversion Module
 
 I wrote this module for a university thesis, it may contain bugs, but maybe it will help someone in writing a plugin or module) It provides functions to convert between different types of texture maps commonly used in 3D graphics. It includes functions to convert between Specular/Gloss and Metallic/Roughness formats, as well as functions to create normal maps, height maps, curvature maps, and ambient occlusion maps from various input maps.
